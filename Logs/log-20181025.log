@@ -1,0 +1,224 @@
+2018-10-25T17:23:53.0126917+03:00  [ERR]   0% compiling 10% building modules 0/1 modules 1 active ΓÇªtory\src\QuickApp\ClientApp\src\main.ts                                          10% building modules 1/1 modules 0 active 10% building modules 1/2 modules 1 active ΓÇªsrc\QuickApp\ClientApp\src\polyfills.ts                                          10% building modules 2/2 modules 0 active 10% building modules 2/3 modules 1 active ΓÇªtApp\src\assets\devextreme\dx.light.css                                          10% building modules 3/3 modules 0 active 10% building modules 3/4 modules 1 active ΓÇªserver\client\index.js?http://0.0.0.0:0                                          10% building modules 4/4 modules 0 active 10% building modules 4/5 modules 1 active ΓÇªtory\src\QuickApp\ClientApp\src\main.ts 10% building modules 4/6 modules 2 active ΓÇªsrc\QuickApp\ClientApp\src\polyfills.ts 10% building modules 5/6 modules 1 active ΓÇªsrc\QuickApp\ClientApp\src\polyfills.ts                                          10% building modules 6/6 modules 0 active 10% building modules 6/7 modules 1 active ΓÇªy\src\QuickApp\ClientApp\src\styles.css 10% building modules 6/8 modules 2 active ΓÇªlientApp\src\assets\styles-external.css 10% building modules 6/9 modules 3 active ΓÇªkApp\ClientApp\src\assets\mapbox-gl.css 10% building modules 6/10 modules 4 active ΓÇªApp\src\assets\devextreme\dx.common.css 10% building modules 6/11 modules 5 active ΓÇªtApp\src\assets\devextreme\dx.light.css 10% building modules 6/12 modules 6 active ΓÇª\adminlte-rtl\dist\css\AdminLTE.min.css 10% building modules 6/13 modules 7 active ΓÇªinlte-rtl\dist\css\skins\_all-skins.css 10% building modules 6/14 modules 8 active ΓÇª\src\app\assets\styles\modal-popup.less 10% building modules 6/15 modules 9 active ΓÇªles\webpack-dev-server\client\socket.js 10% building modules 6/16 modules 10 active ΓÇªes\webpack-dev-server\client\overlay.js 10% building modules 6/17 modules 11 active ΓÇªbpack\hot sync nonrecursive /^\.\/log$/ 10% building modules 7/17 modules 10 active ΓÇªbpack\hot sync nonrecursive /^\.\/log$/ 10% building modules 7/18 modules 11 active ΓÇªentApp\src\assets\styles-external.css 0 10% building modules 8/18 modules 10 active ΓÇªbpack\hot sync nonrecursive /^\.\/log$/  11% building modules 9/18 modules 9 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 10/18 modules 8 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 10/19 modules 9 active ΓÇªpp\ClientApp\src\assets\mapbox-gl.css 0 11% building modules 11/19 modules 8 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 12/19 modules 7 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 12/20 modules 8 active ΓÇªrc\app\assets\styles\modal-popup.less 0 11% building modules 13/20 modules 7 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 14/20 modules 6 active ΓÇªes\webpack-dev-server\client\overlay.js 11% building modules 15/20 modules 5 active ΓÇªinlte-rtl\dist\css\skins\_all-skins.css 11% building modules 16/20 modules 4 active ΓÇª\adminlte-rtl\dist\css\AdminLTE.min.css 11% building modules 16/21 modules 5 active ΓÇªlte-rtl\dist\css\skins\_all-skins.css 0 12% building modules 17/21 modules 4 active ΓÇª\adminlte-rtl\dist\css\AdminLTE.min.css 12% building modules 17/22 modules 5 active ΓÇªientApp\node_modules\webpack\hot\log.js 12% building modules 17/23 modules 6 active ΓÇªApp\node_modules\webpack\hot\emitter.js 12% building modules 18/23 modules 5 active ΓÇªientApp\node_modules\webpack\hot\log.js 12% building modules 19/23 modules 4 active ΓÇª\adminlte-rtl\dist\css\AdminLTE.min.css 12% building modules 19/24 modules 5 active ΓÇªckApp\ClientApp\node_modules\url\url.js 12% building modules 20/24 modules 4 active ΓÇªckApp\ClientApp\node_modules\url\url.js 12% building modules 20/25 modules 5 active ΓÇªentApp\node_modules\strip-ansi\index.js 12% building modules 21/25 modules 4 active ΓÇªentApp\node_modules\strip-ansi\index.js 12% building modules 21/26 modules 5 active ΓÇªp\src\assets\devextreme\dx.common.css 0 12% building modules 22/26 modules 4 active ΓÇªentApp\node_modules\strip-ansi\index.js 12% building modules 22/27 modules 5 active ΓÇªp\node_modules\loglevel\lib\loglevel.js 12% building modules 23/27 modules 4 active ΓÇªp\node_modules\loglevel\lib\loglevel.js 12% building modules 24/27 modules 3 active ΓÇªp\node_modules\loglevel\lib\loglevel.js 13% building modules 25/27 modules 2 active ΓÇª\adminlte-rtl\dist\css\AdminLTE.min.css 13% building modules 25/28 modules 3 active ΓÇªde_modules\sockjs-client\dist\sockjs.js 13% building modules 25/29 modules 4 active ΓÇªientApp\node_modules\ansi-html\index.js 13% building modules 26/29 modules 3 active ΓÇªientApp\node_modules\ansi-html\index.js 13% building modules 26/30 modules 4 active ΓÇªdminlte-rtl\dist\css\AdminLTE.min.css 0 13% building modules 27/30 modules 3 active ΓÇªientApp\node_modules\ansi-html\index.js 13% building modules 27/31 modules 4 active ΓÇªkApp\ClientApp\node_modules\url\util.js 13% building modules 27/32 modules 5 active ΓÇªClientApp\node_modules\events\events.js 13% building modules 28/32 modules 4 active ΓÇªClientApp\node_modules\events\events.js 13% building modules 28/33 modules 5 active ΓÇªApp\node_modules\html-entities\index.js 13% building modules 29/33 modules 4 active ΓÇªClientApp\node_modules\events\events.js 13% building modules 29/34 modules 5 active ΓÇªdules\html-entities\lib\xml-entities.js 13% building modules 29/35 modules 6 active ΓÇªles\html-entities\lib\html4-entities.js 13% building modules 29/36 modules 7 active ΓÇªles\html-entities\lib\html5-entities.js 13% building modules 30/36 modules 6 active ΓÇªles\html-entities\lib\html5-entities.js 13% building modules 31/36 modules 5 active ΓÇªles\html-entities\lib\html5-entities.js 13% building modules 32/36 modules 4 active ΓÇªles\html-entities\lib\html5-entities.js 13% building modules 32/37 modules 5 active ΓÇªs\url\node_modules\punycode\punycode.js 13% building modules 33/37 modules 4 active ΓÇªs\url\node_modules\punycode\punycode.js 13% building modules 33/38 modules 5 active ΓÇªentApp\node_modules\ansi-regex\index.js 14% building modules 34/38 modules 4 active ΓÇªentApp\node_modules\ansi-regex\index.js 14% building modules 35/38 modules 3 active ΓÇªentApp\node_modules\ansi-regex\index.js 14% building modules 36/38 modules 2 active ΓÇªles\html-entities\lib\html5-entities.js 14% building modules 37/38 modules 1 active ΓÇªtApp\src\assets\devextreme\dx.light.css 14% building modules 37/39 modules 2 active ΓÇª\node_modules\webpack\buildin\module.js 14% building modules 38/39 modules 1 active ΓÇªtApp\src\assets\devextreme\dx.light.css 14% building modules 38/40 modules 2 active ΓÇªntApp\node_modules\querystring\index.js 14% building modules 39/40 modules 1 active ΓÇªtApp\src\assets\devextreme\dx.light.css                                          14% building modules 40/40 modules 0 active 14% building modules 40/41 modules 1 active ΓÇªpp\src\assets\devextreme\dx.light.css 0                                          14% building modules 41/41 modules 0 active 14% building modules 41/42 modules 1 active ΓÇªtApp\node_modules\querystring\decode.js 14% building modules 41/43 modules 2 active ΓÇªtApp\node_modules\querystring\encode.js 15% building modules 42/43 modules 1 active ΓÇªtApp\node_modules\querystring\encode.js                                          15% building modules 43/43 modules 0 active                     70% finish module graph 70% finish module graph FlagDependencyExportsPlugin                                         70% sealing 70% sealing WarnCaseSensitiveModulesPlugin        71% basic dependencies optimization       71% dependencies optimization 72% advanced dependencies optimization    72% after dependencies optimization                      73% optimizing 73% basic module optimization       74% module optimization 74% advanced module optimization    75% after module optimization  75% basic chunk optimization 75% basic chunk optimization EnsureChunkConditionsPlugin   75% basic chunk optimization RemoveParentModulesPlugin   75% basic chunk optimization RemoveEmptyChunksPlugin 75% basic chunk optimization MergeDuplicateChunksPlugin                                  76% chunk optimization 76% advanced chunk optimization 76% advanced chunk optimization SplitChunksPlugin 76% advanced chunk optimization RuntimeChunkPlugin 76% advanced chunk optimization RemoveEmptyChunksPlugin                            77% after chunk optimization 77% module and chunk tree optimization 78% after module and chunk tree optimization         78% basic chunk modules optimization       79% chunk modules optimization 79% advanced chunk modules optimization    80% after chunk modules optimization                  80% module reviving 80% module reviving RecordIdsPlugin       81% module order optimization 81% advanced module order optimization                  82% before module ids 82% before module ids NamedModulesPlugin                           83% module ids 83% module id optimization 84% module id optimization         84% chunk reviving 84% chunk reviving RecordIdsPlugin       85% chunk order optimization         85% before chunk ids 85% before chunk ids NamedChunksPlugin              86% chunk id optimization 86% after chunk id optimization                     88% hashing 88% after hashing 89% module assets processing  90% chunk assets processing 90% additional chunk assets processing        91% additional asset processing 91% additional asset processing scripts-webpack-plugin├ù ∩╜ówdm∩╜ú: Error: ENOENT: no such file or directory, open 'E:\projects2\DeviceInventory\src\QuickApp\ClientApp\node_modules\bootstrap\dist\js\bootstrap.js'
+ (0eaca04f)
+2018-10-25T19:24:33.7550184+03:00 0HLHQIPA0HJ3U:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:4201/, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:4201/.
+
+The underlying exception message was 'No connection could be made because the target machine actively refused it'.Check the InnerException for more details. ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.CreateConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.WaitForCreatedConnectionAsync(ValueTask`1 creationTask)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2018-10-25T20:07:37.0513128+03:00 0HLHQJHDA9BP5:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:4201/, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:4201/.
+
+The underlying exception message was 'No connection could be made because the target machine actively refused it'.Check the InnerException for more details. ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.CreateConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.WaitForCreatedConnectionAsync(ValueTask`1 creationTask)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2018-10-25T21:03:46.4068032+03:00 0HLHQKGM67AEM:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:4201/, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:4201/.
+
+The underlying exception message was 'No connection could be made because the target machine actively refused it'.Check the InnerException for more details. ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.CreateConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.WaitForCreatedConnectionAsync(ValueTask`1 creationTask)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2018-10-25T21:07:18.9258345+03:00 0HLHQKGM67AEN:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:4201/, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:4201/.
+
+The underlying exception message was 'No connection could be made because the target machine actively refused it'.Check the InnerException for more details. ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.CreateConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.WaitForCreatedConnectionAsync(ValueTask`1 creationTask)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2018-10-25T21:15:05.5178641+03:00 0HLHQKMQSLCFV:00000003 [INF] The token request was successfully extracted from the HTTP request: "{
+  \"username\": \"admin@moi.com\",
+  \"password\": \"[removed for security reasons]\",
+  \"grant_type\": \"password\",
+  \"scope\": \"openid email phone profile offline_access roles\"
+}". (ebc01284)
+2018-10-25T21:15:05.6739994+03:00 0HLHQKMQSLCFV:00000003 [DBG] The token request validation process was partially skipped because the 'client_id' parameter was missing or empty. (fcec36a0)
+2018-10-25T21:15:05.6791156+03:00 0HLHQKMQSLCFV:00000003 [INF] The token request was successfully validated. (d7e51e65)
+2018-10-25T21:15:05.7434239+03:00 0HLHQKMQSLCFV:00000003 [DBG] The default token request handling was skipped from user code. (72afae05)
+2018-10-25T21:15:07.3432112+03:00 0HLHQKMQSLCFV:00000003 [INF] An ad hoc authorization was automatically created and associated with an unknown application: "3285d9ae-1519-4c4c-9d68-95d68c1c4e0b". (b5fe4ad7)
+2018-10-25T21:15:07.4467584+03:00 0HLHQKMQSLCFV:00000003 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:15:07.4539128+03:00 0HLHQKMQSLCFV:00000003 [DBG] '"fullname"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:15:07.4600554+03:00 0HLHQKMQSLCFV:00000003 [DBG] '"email"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:15:07.4679367+03:00 0HLHQKMQSLCFV:00000003 [DBG] '"phone"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:15:07.9184663+03:00 0HLHQKMQSLCFV:00000003 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the identity token claims. (7dcd2335)
+2018-10-25T21:15:08.0587236+03:00 0HLHQKMQSLCFV:00000003 [INF] The token response was successfully returned: "{
+  \"token_type\": \"Bearer\",
+  \"access_token\": \"[removed for security reasons]\",
+  \"expires_in\": 3600,
+  \"refresh_token\": \"[removed for security reasons]\",
+  \"id_token\": \"[removed for security reasons]\"
+}". (12d98310)
+2018-10-25T21:38:02.6797267+03:00 0HLHQL3Q34TET:00000004 [INF] The token request was successfully extracted from the HTTP request: "{
+  \"username\": \"admin@moi.com\",
+  \"password\": \"[removed for security reasons]\",
+  \"grant_type\": \"password\",
+  \"scope\": \"openid email phone profile offline_access roles\"
+}". (ebc01284)
+2018-10-25T21:38:02.7794000+03:00 0HLHQL3Q34TET:00000004 [DBG] The token request validation process was partially skipped because the 'client_id' parameter was missing or empty. (fcec36a0)
+2018-10-25T21:38:02.7845077+03:00 0HLHQL3Q34TET:00000004 [INF] The token request was successfully validated. (d7e51e65)
+2018-10-25T21:38:02.8114402+03:00 0HLHQL3Q34TET:00000004 [DBG] The default token request handling was skipped from user code. (72afae05)
+2018-10-25T21:38:04.4794602+03:00 0HLHQL3Q34TET:00000004 [INF] An ad hoc authorization was automatically created and associated with an unknown application: "a368301d-ac2e-4b56-b5d9-da24165afe1e". (b5fe4ad7)
+2018-10-25T21:38:04.5553847+03:00 0HLHQL3Q34TET:00000004 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:38:04.5606537+03:00 0HLHQL3Q34TET:00000004 [DBG] '"fullname"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:38:04.5657242+03:00 0HLHQL3Q34TET:00000004 [DBG] '"email"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:38:04.5703537+03:00 0HLHQL3Q34TET:00000004 [DBG] '"phone"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T21:38:04.9148352+03:00 0HLHQL3Q34TET:00000004 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the identity token claims. (7dcd2335)
+2018-10-25T21:38:05.0041875+03:00 0HLHQL3Q34TET:00000004 [INF] The token response was successfully returned: "{
+  \"token_type\": \"Bearer\",
+  \"access_token\": \"[removed for security reasons]\",
+  \"expires_in\": 3600,
+  \"refresh_token\": \"[removed for security reasons]\",
+  \"id_token\": \"[removed for security reasons]\"
+}". (12d98310)
+2018-10-25T21:47:19.4248430+03:00 0HLHQL3Q34TF0:00000003 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.AggregateException: One or more errors occurred. (The remote party closed the WebSocket connection without completing the close handshake.) ---> System.Net.WebSockets.WebSocketException: The remote party closed the WebSocket connection without completing the close handshake. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, Boolean throwOnPrematureClosure)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   --- End of inner exception stack trace ---
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+---> (Inner Exception #0) System.Net.WebSockets.WebSocketException (0x80004005): The remote party closed the WebSocket connection without completing the close handshake. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, Boolean throwOnPrematureClosure)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)<---
+
+2018-10-25T22:12:39.3640490+03:00 0HLHQLMLE4QR1:00000003 [INF] The token request was successfully extracted from the HTTP request: "{
+  \"username\": \"admin@moi.com\",
+  \"password\": \"[removed for security reasons]\",
+  \"grant_type\": \"password\",
+  \"scope\": \"openid email phone profile offline_access roles\"
+}". (ebc01284)
+2018-10-25T22:12:39.4546103+03:00 0HLHQLMLE4QR1:00000003 [DBG] The token request validation process was partially skipped because the 'client_id' parameter was missing or empty. (fcec36a0)
+2018-10-25T22:12:39.4555374+03:00 0HLHQLMLE4QR1:00000003 [INF] The token request was successfully validated. (d7e51e65)
+2018-10-25T22:12:39.4771292+03:00 0HLHQLMLE4QR1:00000003 [DBG] The default token request handling was skipped from user code. (72afae05)
+2018-10-25T22:12:40.9392464+03:00 0HLHQLMLE4QR1:00000003 [INF] An ad hoc authorization was automatically created and associated with an unknown application: "af57f536-e8af-441a-a348-9e7278db34ab". (b5fe4ad7)
+2018-10-25T22:12:41.0126167+03:00 0HLHQLMLE4QR1:00000003 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T22:12:41.0133873+03:00 0HLHQLMLE4QR1:00000003 [DBG] '"fullname"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T22:12:41.0135716+03:00 0HLHQLMLE4QR1:00000003 [DBG] '"email"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T22:12:41.0137294+03:00 0HLHQLMLE4QR1:00000003 [DBG] '"phone"' was excluded from the access token claims. (ed8f369e)
+2018-10-25T22:12:41.4333148+03:00 0HLHQLMLE4QR1:00000003 [DBG] '"AspNet.Identity.SecurityStamp"' was excluded from the identity token claims. (7dcd2335)
+2018-10-25T22:12:41.5199414+03:00 0HLHQLMLE4QR1:00000003 [INF] The token response was successfully returned: "{
+  \"token_type\": \"Bearer\",
+  \"access_token\": \"[removed for security reasons]\",
+  \"expires_in\": 3600,
+  \"refresh_token\": \"[removed for security reasons]\",
+  \"id_token\": \"[removed for security reasons]\"
+}". (12d98310)
+2018-10-25T23:31:36.7872138+03:00 0HLHQLMLE4QR3:00000001 [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:4201/, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:4201/.
+
+The underlying exception message was 'No connection could be made because the target machine actively refused it'.Check the InnerException for more details. ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.CreateConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.WaitForCreatedConnectionAsync(ValueTask`1 creationTask)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncUnbuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
